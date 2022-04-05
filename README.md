@@ -14,3 +14,4 @@ This repository is used to coordinate data mobilisation based on GRSciColl (http
 * Add the `collection missing from GBIF` label if some of the collections aren't available on GBIF yet.
 * Add the `digitized specimens missing from GBIF` label is some of the digitized specimens aren't available on GBIF.
 * Add the `outside of GBIF scope` label if the institution has only collections that wouldn't fit in GBIF (like geology or archeology collections)
+* Add the `pending collection verification` label if initial search shows no indication of collection curation.
