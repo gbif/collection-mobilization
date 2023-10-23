@@ -1,5 +1,5 @@
 # collection-mobilization
-This repository is used to coordinate data mobilisation based on GRSciColl (https://www.gbif.org/grscicoll) entries.
+This repository is used to coordinate data mobilisation based on GRSciColl (https://www.gbif.org/grscicoll) entries. See the code used to create GitHub issues here: https://github.com/ManonGros/Small-scripts-using-GBIF-API/blob/master/create_github_issues_grscicoll_inst.ipynb
 
 ## Workflow
 
