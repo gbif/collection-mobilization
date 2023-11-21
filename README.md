@@ -17,5 +17,5 @@ This repository is used to coordinate data mobilisation based on GRSciColl (http
 * Add the `collection missing from GBIF` label if some of the collections aren't available on GBIF yet.
 * Add the `some digitised specimens-metadata missing from GBIF` label if the institution has something almost like occurrences (scientific name, location, date) available like a database or online inventory for their specimens.
     * Add the `media available` label if the institutions has specimen-related media or is in the process of getting media (e.g. capturing images).
-* Add the `contacted` label when an email is sent to the institutions for asking the willing to mobilize data.
+* Add the `contacted` label when an email is sent to the institutions for asking the willingness to mobilize data.
     * Add the `agree to mobilize data` label when the institution is contacted and agree to mobilize the data
