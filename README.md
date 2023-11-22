@@ -10,6 +10,7 @@ This repository is used to coordinate data mobilisation based on GRSciColl (http
 [to be defined/updated]
 
 * Add the `registered publisher` label if the institution is registered on GBIF.
+* Add the `Not registered as a publisher on GBIF` label if the institution is not registered as a GBIF publisher.
 * Add the `some specimens in GBIF` label if the institution (or a third party) has already published some of the institution's specimens on GBIF.
     * Add the `published by third party` label if the institution has datasets that published by a third party.
     * Add the `unlinked occurrences` label when a search based on new information (codes, names) found published data not yet linked to the institution
