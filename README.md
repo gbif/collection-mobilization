@@ -22,5 +22,5 @@ This repository is used to coordinate data mobilisation based on GRSciColl (http
     * Add the `media available` label if the institution has specimen-related media or is in the process of getting media (e.g. capturing images).
 * Add the `contacted` label when an email is sent to the institutions to ask for the willingness to mobilize data or update their GRSciColl entries.
     * Add the `agree to mobilize data` label when the institution is contacted and agree to mobilize the data
-    * Add the `responded` label when the institution responds to the emails sent
+    * Add the `responded` label when the institution responded at least to one of the emails sent
 * Add the `duplicate` label when an institution is a duplicate of another entry (parent, child, or the same entry with an alternative name), with which it has been merged.
